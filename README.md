@@ -7,13 +7,13 @@
 
 ---
 
-## 📋 Summary
+## Summary
 
 A PC running Windows 11 became completely unbootable after being physically moved. The system displayed a Blue Screen of Death (BSOD) with stop code `INACCESSIBLE_BOOT_DEVICE (0x7B)` on every boot attempt. Through systematic diagnosis and manual boot record reconstruction, the system was fully recovered without reinstalling Windows or losing any data.
 
 ---
 
-## 🧠 Diagnostic Process
+## Diagnostic Process
 
 ### Step 1 — BIOS Investigation
 
@@ -35,7 +35,7 @@ With the drive healthy and detectable, the most likely cause was a corrupted or 
 
 ---
 
-## 🔧 Recovery Procedure
+## Recovery Procedure
 
 ### Tools Used
 - Second PC running Windows
