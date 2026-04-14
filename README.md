@@ -133,4 +133,4 @@ bcdboot C:\Windows /s Z: /f UEFI
 
 ---
 
-*Documented as part of a cybersecurity portfolio — real-world incident, fully resolved.*
+*Documented as part of a cybersecurity portfolio in a real-world incident, fully resolved.*
